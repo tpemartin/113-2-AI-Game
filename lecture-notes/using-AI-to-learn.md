@@ -47,6 +47,10 @@ Can prediction of the next word in a sentence help us learn?
 
   - Yes, only if **the prediction direction** makes sense to us.  
 
+### Slido
+
+[slido](slido.md)
+
 > slido: 你認為對話歷史中的哪些元素會影響不同回話的機率？
 
 > slido: 自我介紹
@@ -55,3 +59,4 @@ Can prediction of the next word in a sentence help us learn?
 
 [ChatGPT & Grok](share-AI-chat-link.md)
 
+> slido: 與 AI 對話
