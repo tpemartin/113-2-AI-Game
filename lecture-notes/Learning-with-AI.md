@@ -2,7 +2,12 @@
 
   - What can AI summarise what we learnt? 
 
-## Three Games
+## Different AI models
+
+![](../img/2025-03-28-13-18-14.png)
+
+
+## Two Games
 
   - 料理東西軍  
   - Mondern Family   
@@ -24,3 +29,6 @@
 ### Mondern Family
 
   - Who wants to tell the truth?
+
+## Design Learning Agent
+
