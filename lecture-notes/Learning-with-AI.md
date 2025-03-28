@@ -10,7 +10,7 @@
 ## Two Games
 
   - 料理東西軍  
-  - Mondern Family   
+  - Modern Family   
 
 ### 料理東西軍
 
