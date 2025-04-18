@@ -21,12 +21,12 @@
   - 勁辣雞腿堡套餐  
   - 雙層牛肉吉事堡套餐  
 
-[元爵味黃燜雞米飯 ](https://www.foodpanda.com.tw/restaurant/fx9v/jia-nowu-ma-la-chou-dou-fu-zhu-shi-kuai-chao-ge-shi-xiao-chi)
+[元爵味黃燜雞米飯 ](https://www.foodpanda.com.tw/restaurant/gr3y/yuan-jue-wei-huang-men-ji-mi-fan-san-xia-dian)
 
   - 川香麻辣牛  
-  - 經典黃燜牛
+  - 經典黃燜豬
 
-### Mondern Family
+### Modern Family
 
   - Who wants to tell the truth?
 
