@@ -1,8 +1,4 @@
-# 📝 Lecture Note — Week 2 Slide (Markdown Style)
-
----
-
-## 🧩 Week 2 — Stuck in Sync: Exploring Multiple Equilibria in Coordination Games
+# 📝 Lecture Note — Stuck in Sync: Exploring Multiple Equilibria in Coordination Games
 
 ---
 
